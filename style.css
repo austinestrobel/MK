@@ -1,0 +1,50 @@
+body {
+    color: black;
+    background-image: linear-gradient(to right, #505D66, #41AAC6, white ) ;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    margin-left: 5px;
+}
+
+#contact {
+    background-color: white;
+    border-style: solid;
+}
+
+input {
+    color: black;
+    height: 35px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    margin-left: 5px;
+    width: 90%;
+    height: 100px;
+}
+
+button {
+    margin-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    border: 2px solid black;
+    width: 90px;
+    height: 40px;
+
+}
+
+button:hover {
+    background-color: rgb(125, 218, 243);
+}
